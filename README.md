@@ -47,6 +47,8 @@ AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling
 
+![pwa-budget](https://user-images.githubusercontent.com/22566791/110745811-b2648b80-81f0-11eb-87f6-9ef2e98110ef.gif)
+
 ```markdown
 GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
